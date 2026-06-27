@@ -12,3 +12,6 @@ Welcome to the bookingsite
     - TicketBooking
     - Check Status
     - Cancel Booking
+## Paymet method
+    - Online method 
+    - Net Banking and All online Paying apps
